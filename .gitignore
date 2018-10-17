@@ -5,7 +5,7 @@
 /cs231n/__pycache__
 
 #shell scripts
-*.sh
+**/*.sh
 
 #requirements
 requirements.txt
