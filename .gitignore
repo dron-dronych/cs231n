@@ -1,0 +1,11 @@
+#datasets
+/cs231n/datasets
+
+#pycache
+/cs231n/__pycache__
+
+#shell scripts
+*.sh
+
+#requirements
+requirements.txt
