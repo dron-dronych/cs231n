@@ -9,3 +9,6 @@
 
 #requirements
 requirements.txt
+
+#Jupyter Notebook checkpoint
+.ipynb_checkpoints/
